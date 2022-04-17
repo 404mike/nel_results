@@ -7,6 +7,9 @@
             "Collections for Augustus John"
         ]
     },
+    "behavior": [
+        "multi-part"
+    ],
     "summary": {
         "en": [
             "Collection Summary for Augustus John"
