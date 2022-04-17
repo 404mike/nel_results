@@ -1,38 +1,39 @@
 {
-    "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
-    "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q562540\/journal\/manifest.json",
-    "type": "Collection",
-    "label": {
-        "en": [
-            "Journal"
-        ]
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://404mike.github.io/nel_results/data/qids/Q562540/journal/manifest.json",
+  "type": "Collection",
+  "label": { "en": [ "Collection for Example Organization" ] },
+  "summary": { "en": [ "Short summary of the Collection" ] },
+  "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "Provided by Example Organization" ] }
+  },
+
+  "items": [
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/4627582/manifest.json",
+      "type": "Manifest",
+      "label": { "en": [ "Example Manifest 1" ] }
     },
-    "summary": {
-        "en": [
-            "Collection of Journal"
-        ]
+    {
+      "id": "https://damsssl.llgc.org.uk/iiif/2.0/4624352/manifest.json",
+      "type": "Manifest",
+      "label": { "en": [ "Example Manifest 2" ] }
     },
-    "requiredStatement": {
-        "label": {
-            "en": [
-                "Attribution"
-            ]
-        },
-        "value": {
-            "en": [
-                "Provided by Example Organization"
-            ]
-        }
+    {
+      "id": "https://404mike.github.io/IIIF-Content-State/faces-v3.json",
+      "type": "Collection",
+      "label": { "en": [ "Faces" ] }
     },
-    "items": [
-        {
-            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/4627582\/manifest.json",
-            "type": "Manifest",
-            "label": {
-                "en": [
-                    "1915-11-01"
-                ]
-            }
-        }
-    ]
+    {
+      "id": "https://404mike.github.io/IIIF-Content-State/citation.json",
+      "type": "Collection",
+      "label": { "en": [ "Citations" ] }
+    },
+    {
+      "id": "https://404mike.github.io/IIIF-Content-State/splitjournal-v3.json",
+      "type": "Manifest",
+      "label": { "en": [ "Journals" ] }
+    }
+  ]
 }
