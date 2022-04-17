@@ -36,15 +36,6 @@
                     "journal articles"
                 ]
             }
-        },
-        {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q562540\/newspaper\/manifest.json",
-            "type": "Manifest",
-            "label": {
-                "en": [
-                    "newspaper articles"
-                ]
-            }
         }
     ]
 }
