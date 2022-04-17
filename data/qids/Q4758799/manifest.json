@@ -22,20 +22,20 @@
     },
     "items": [
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q4758799\/Journal\/manifest.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q4758799\/journal\/manifest.json",
             "type": "Manifest",
             "label": {
                 "en": [
-                    "Journal articles"
+                    "journal articles"
                 ]
             }
         },
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q4758799\/Newspaper\/manifest.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q4758799\/newspaper\/manifest.json",
             "type": "Manifest",
             "label": {
                 "en": [
-                    "Newspaper articles"
+                    "newspaper articles"
                 ]
             }
         }
