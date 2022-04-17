@@ -2,12 +2,12 @@
     "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
     "id": "https:\/\/404mike.github.io\/nel_results\/data\/manifests\/62599b02598a4\/index.json",
     "type": "Collection",
-    "label": {
+    "label": [
         "en": "Collections for Welsh Artists"
-    },
-    "summary": {
+    ],
+    "summary": [
         "en": "Collection Summary for Welsh Artists"
-    },
+    ],
     "requiredStatement": {
         "label": {
             "en": [
