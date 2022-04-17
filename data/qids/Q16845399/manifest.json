@@ -3,10 +3,14 @@
     "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q16845399\/manifest.json",
     "type": "Collection",
     "label": {
-        "en": "Collections for Hugh Hughes"
+        "en": [
+            "Collections for Hugh Hughes"
+        ]
     },
     "summary": {
-        "en": "Collection Summary for Hugh Hughes"
+        "en": [
+            "Collection Summary for Hugh Hughes"
+        ]
     },
     "requiredStatement": {
         "label": {

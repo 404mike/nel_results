@@ -3,10 +3,14 @@
     "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q16845399\/journal\/manifest.json",
     "type": "Collection",
     "label": {
-        "en": "Journal"
+        "en": [
+            "Journal"
+        ]
     },
     "summary": {
-        "en": "Collection of Journal"
+        "en": [
+            "Collection of Journal"
+        ]
     },
     "requiredStatement": {
         "label": {

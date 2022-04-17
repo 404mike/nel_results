@@ -3,10 +3,14 @@
     "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q7787897\/manifest.json",
     "type": "Collection",
     "label": {
-        "en": "Collections for Thomas Brigstocke"
+        "en": [
+            "Collections for Thomas Brigstocke"
+        ]
     },
     "summary": {
-        "en": "Collection Summary for Thomas Brigstocke"
+        "en": [
+            "Collection Summary for Thomas Brigstocke"
+        ]
     },
     "requiredStatement": {
         "label": {

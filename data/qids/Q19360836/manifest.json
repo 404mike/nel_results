@@ -3,10 +3,14 @@
     "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q19360836\/manifest.json",
     "type": "Collection",
     "label": {
-        "en": "Collections for Roger Cecil"
+        "en": [
+            "Collections for Roger Cecil"
+        ]
     },
     "summary": {
-        "en": "Collection Summary for Roger Cecil"
+        "en": [
+            "Collection Summary for Roger Cecil"
+        ]
     },
     "requiredStatement": {
         "label": {

@@ -3,10 +3,14 @@
     "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21455263\/manifest.json",
     "type": "Collection",
     "label": {
-        "en": "Collections for Alfred Oliver"
+        "en": [
+            "Collections for Alfred Oliver"
+        ]
     },
     "summary": {
-        "en": "Collection Summary for Alfred Oliver"
+        "en": [
+            "Collection Summary for Alfred Oliver"
+        ]
     },
     "requiredStatement": {
         "label": {

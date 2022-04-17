@@ -3,10 +3,14 @@
     "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21460680\/manifest.json",
     "type": "Collection",
     "label": {
-        "en": "Collections for John Cambrian Rowland"
+        "en": [
+            "Collections for John Cambrian Rowland"
+        ]
     },
     "summary": {
-        "en": "Collection Summary for John Cambrian Rowland"
+        "en": [
+            "Collection Summary for John Cambrian Rowland"
+        ]
     },
     "requiredStatement": {
         "label": {

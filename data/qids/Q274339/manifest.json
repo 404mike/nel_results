@@ -3,10 +3,14 @@
     "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q274339\/manifest.json",
     "type": "Collection",
     "label": {
-        "en": "Collections for Gwen John"
+        "en": [
+            "Collections for Gwen John"
+        ]
     },
     "summary": {
-        "en": "Collection Summary for Gwen John"
+        "en": [
+            "Collection Summary for Gwen John"
+        ]
     },
     "requiredStatement": {
         "label": {

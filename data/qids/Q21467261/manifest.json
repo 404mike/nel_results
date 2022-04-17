@@ -3,10 +3,14 @@
     "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21467261\/manifest.json",
     "type": "Collection",
     "label": {
-        "en": "Collections for David Mainwaring"
+        "en": [
+            "Collections for David Mainwaring"
+        ]
     },
     "summary": {
-        "en": "Collection Summary for David Mainwaring"
+        "en": [
+            "Collection Summary for David Mainwaring"
+        ]
     },
     "requiredStatement": {
         "label": {

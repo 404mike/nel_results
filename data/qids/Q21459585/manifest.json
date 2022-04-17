@@ -3,10 +3,14 @@
     "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21459585\/manifest.json",
     "type": "Collection",
     "label": {
-        "en": "Collections for Joan Baker"
+        "en": [
+            "Collections for Joan Baker"
+        ]
     },
     "summary": {
-        "en": "Collection Summary for Joan Baker"
+        "en": [
+            "Collection Summary for Joan Baker"
+        ]
     },
     "requiredStatement": {
         "label": {

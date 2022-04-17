@@ -3,10 +3,14 @@
     "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q20054436\/manifest.json",
     "type": "Collection",
     "label": {
-        "en": "Collections for Gwilym Prichard"
+        "en": [
+            "Collections for Gwilym Prichard"
+        ]
     },
     "summary": {
-        "en": "Collection Summary for Gwilym Prichard"
+        "en": [
+            "Collection Summary for Gwilym Prichard"
+        ]
     },
     "requiredStatement": {
         "label": {

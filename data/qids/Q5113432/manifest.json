@@ -3,10 +3,14 @@
     "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5113432\/manifest.json",
     "type": "Collection",
     "label": {
-        "en": "Collections for Christopher Williams"
+        "en": [
+            "Collections for Christopher Williams"
+        ]
     },
     "summary": {
-        "en": "Collection Summary for Christopher Williams"
+        "en": [
+            "Collection Summary for Christopher Williams"
+        ]
     },
     "requiredStatement": {
         "label": {

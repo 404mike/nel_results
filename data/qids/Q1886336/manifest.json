@@ -3,10 +3,14 @@
     "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q1886336\/manifest.json",
     "type": "Collection",
     "label": {
-        "en": "Collections for Ben Johnson"
+        "en": [
+            "Collections for Ben Johnson"
+        ]
     },
     "summary": {
-        "en": "Collection Summary for Ben Johnson"
+        "en": [
+            "Collection Summary for Ben Johnson"
+        ]
     },
     "requiredStatement": {
         "label": {

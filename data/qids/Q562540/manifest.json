@@ -3,10 +3,14 @@
     "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q562540\/manifest.json",
     "type": "Collection",
     "label": {
-        "en": "Collections for Augustus John"
+        "en": [
+            "Collections for Augustus John"
+        ]
     },
     "summary": {
-        "en": "Collection Summary for Augustus John"
+        "en": [
+            "Collection Summary for Augustus John"
+        ]
     },
     "requiredStatement": {
         "label": {

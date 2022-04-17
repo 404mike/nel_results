@@ -3,10 +3,14 @@
     "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6450928\/newspaper\/manifest.json",
     "type": "Collection",
     "label": {
-        "en": "Newspaper"
+        "en": [
+            "Newspaper"
+        ]
     },
     "summary": {
-        "en": "Collection of Newspaper"
+        "en": [
+            "Collection of Newspaper"
+        ]
     },
     "requiredStatement": {
         "label": {

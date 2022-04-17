@@ -3,10 +3,14 @@
     "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q11208643\/manifest.json",
     "type": "Collection",
     "label": {
-        "en": "Collections for Thomas Tudor"
+        "en": [
+            "Collections for Thomas Tudor"
+        ]
     },
     "summary": {
-        "en": "Collection Summary for Thomas Tudor"
+        "en": [
+            "Collection Summary for Thomas Tudor"
+        ]
     },
     "requiredStatement": {
         "label": {

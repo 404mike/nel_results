@@ -3,10 +3,14 @@
     "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q4722948\/manifest.json",
     "type": "Collection",
     "label": {
-        "en": "Collections for Alfred Janes"
+        "en": [
+            "Collections for Alfred Janes"
+        ]
     },
     "summary": {
-        "en": "Collection Summary for Alfred Janes"
+        "en": [
+            "Collection Summary for Alfred Janes"
+        ]
     },
     "requiredStatement": {
         "label": {

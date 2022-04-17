@@ -3,10 +3,14 @@
     "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q4758799\/manifest.json",
     "type": "Collection",
     "label": {
-        "en": "Collections for Andrew Vicari"
+        "en": [
+            "Collections for Andrew Vicari"
+        ]
     },
     "summary": {
-        "en": "Collection Summary for Andrew Vicari"
+        "en": [
+            "Collection Summary for Andrew Vicari"
+        ]
     },
     "requiredStatement": {
         "label": {
