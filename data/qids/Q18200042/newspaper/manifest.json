@@ -1,6 +1,6 @@
 {
     "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
-    "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18200042\/Newspaper\/manifest.json",
+    "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18200042\/newspaper\/manifest.json",
     "type": "Collection",
     "label": {
         "en": "Newspaper"
@@ -22,7 +22,7 @@
     },
     "items": [
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18200042\/Newspaper\/4586204-modsarticle37-4586208-1.json\/",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18200042\/newspaper\/4586204-modsarticle37-4586208-1.json\/",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -31,7 +31,7 @@
             }
         },
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18200042\/Newspaper\/4510522-modsarticle1-4510523-1.json\/",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18200042\/newspaper\/4510522-modsarticle1-4510523-1.json\/",
             "type": "Manifest",
             "label": {
                 "en": [

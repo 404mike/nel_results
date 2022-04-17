@@ -1,6 +1,6 @@
 {
     "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
-    "id": "https:\/\/404mike.github.io\/IIIF-Content-State\/collection-v3.json",
+    "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q4758799\/manifest.json",
     "type": "Collection",
     "label": {
         "en": "Collections for Andrew Vicari"

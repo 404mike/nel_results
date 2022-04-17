@@ -1,6 +1,6 @@
 {
     "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
-    "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q449054\/Journal\/manifest.json",
+    "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q449054\/journal\/manifest.json",
     "type": "Collection",
     "label": {
         "en": "Journal"
@@ -22,7 +22,7 @@
     },
     "items": [
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q449054\/Journal\/llgc-id1214989_llgc-id1217551.json\/",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q449054\/journal\/llgc-id1214989_llgc-id1217551.json\/",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -31,7 +31,7 @@
             }
         },
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q449054\/Journal\/llgc-id1214989_llgc-id1218158.json\/",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q449054\/journal\/llgc-id1214989_llgc-id1218158.json\/",
             "type": "Manifest",
             "label": {
                 "en": [

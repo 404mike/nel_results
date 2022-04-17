@@ -1,6 +1,6 @@
 {
     "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
-    "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q20748839\/Newspaper\/manifest.json",
+    "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q20748839\/newspaper\/manifest.json",
     "type": "Collection",
     "label": {
         "en": "Newspaper"
@@ -22,7 +22,7 @@
     },
     "items": [
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q20748839\/Newspaper\/3612081-modsarticle10-3612083-1.json\/",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q20748839\/newspaper\/3612081-modsarticle10-3612083-1.json\/",
             "type": "Manifest",
             "label": {
                 "en": [
