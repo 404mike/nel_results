@@ -1,0 +1,12 @@
+{
+  "@id": "https://404mike.github.io/IIIF-Content-State/journals.json",
+  "@type": "sc:Collection",
+  "label": "Archives at Wellcome Collection",
+  "manifests": [
+    {
+      "@id": "https://404mike.github.io/IIIF-Content-State/splitjournal.json",
+      "@type": "sc:Manifest",
+      "label": "Kyffin - 1990"
+    }
+  ]
+}

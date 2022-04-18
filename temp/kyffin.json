@@ -1,0 +1,44 @@
+{
+  "@id": "https://404mike.github.io/IIIF-Content-State/kyffin.json",
+  "@type": "sc:Collection",
+  "label": "Archives at Wellcome Collection",
+  "manifests": [
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4627582/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Kyffin Painting"
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4624352/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Farmer at funeral"
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4624651/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Woodcutters"
+    }
+  ],
+  "collections": [
+    {
+      "@id": "https://404mike.github.io/IIIF-Content-State/annotation.json",
+      "@type": "sc:Collection",
+      "label": "Annotation Top"
+    },
+    {
+      "@id": "https://404mike.github.io/IIIF-Content-State/faces.json",
+      "@type": "sc:Collection",
+      "label": "Faces Update?"
+    },
+    {
+      "@id": "https://404mike.github.io/IIIF-Content-State/journals.json",
+      "@type": "sc:Collection",
+      "label": "Journals"
+    },  
+    {
+      "@id": "https://404mike.github.io/IIIF-Content-State/iiif-citation.json",
+      "@type": "sc:Collection",
+      "label": "Newspaper Mentions"
+    }
+  ]
+}
