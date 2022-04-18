@@ -27,7 +27,7 @@
     "items": [
         {
             "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q11208643\/newspaper\/3390833-modsarticle1-3390834-1.json",
-            "type": "Manifest",
+            "type": "Collection",
             "label": {
                 "en": [
                     "1830-04-10"
@@ -36,7 +36,7 @@
         },
         {
             "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q11208643\/newspaper\/3721548-modsarticle114-3721555-1.json",
-            "type": "Manifest",
+            "type": "Collection",
             "label": {
                 "en": [
                     "1891-10-31"

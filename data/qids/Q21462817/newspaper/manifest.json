@@ -27,7 +27,7 @@
     "items": [
         {
             "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21462817\/newspaper\/3431186-modsarticle8-3431187-1.json",
-            "type": "Manifest",
+            "type": "Collection",
             "label": {
                 "en": [
                     "1897-02-27"
@@ -36,7 +36,7 @@
         },
         {
             "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21462817\/newspaper\/3414467-modsarticle100-3414475-1.json",
-            "type": "Manifest",
+            "type": "Collection",
             "label": {
                 "en": [
                     "1918-11-22"
