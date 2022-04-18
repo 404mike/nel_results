@@ -34,6 +34,11 @@
       "id": "https://404mike.github.io/IIIF-Content-State/splitjournal-v3.json",
       "type": "Manifest",
       "label": { "en": [ "Journals" ] }
+    },
+    {
+      "id" : "https://404mike.github.io/nel_results/data/qids/Q11208643/journal/llgc-id1238716_llgc-id1240100.json",
+      "type": "Manifest",
+      "label": {"en": ["New Journal"]}
     }
   ]
 }
