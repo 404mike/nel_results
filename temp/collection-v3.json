@@ -36,9 +36,9 @@
       "label": { "en": [ "Journals" ] }
     },
     {
-      "id" : "https://404mike.github.io/nel_results/data/qids/Q11208643/journal/llgc-id1238716_llgc-id1240100.json",
+      "id" : "https://damsssl.llgc.org.uk/iiif/2.0/2272262/manifest.json",
       "type": "Collection",
-      "label": {"en": ["New Journal TEST"]}
+      "label": {"en": ["New Journal TEST Change"]}
     }
   ]
 }
