@@ -149,7 +149,7 @@
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4624345",
+                  "@id": "https://newspapers.library.wales/iiif/2.0/image/3412218/info.json",
                   "profile": "http://iiif.io/api/image/2/level1.json",
                   "height": 3580,
                   "width": 2572,
