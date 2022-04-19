@@ -1,7 +1,7 @@
 {
       "@context": "http://iiif.io/api/presentation/2/context.json",
       "@type": "sc:Manifest",
-      "@id": "https://newspapers.library.wales/iiif/2.0/image/",
+      "@id": "https://404mike.github.io/nel_results/temp/generated.json",
       "label": "[1883-09-15]",
       "metadata": [
         {
@@ -126,21 +126,21 @@
       ],
       "sequences": [
         {
-          "@id": "https://newspapers.library.wales/iiif/2.0/image/",
+          "@id": "https://newspapers.library.wales/iiif/2.0/image/4518268",
           "@type": "sc:Sequence",
           "label": "Current Page Order",
           "viewingDirection": "left-to-right",
           "viewingHint": "paged",
           "canvases": [
             {
-              "@id": "https://newspapers.library.wales/iiif/2.0/image/",
+              "@id": "https://newspapers.library.wales/iiif/2.0/image/4518268",
               "@type": "sc:Canvas",
               "label": "1883-09-15",
               "height": 3580,
               "width": 2572,
               "images": [
                 {
-                  "@id": "https://newspapers.library.wales/iiif/2.0/image/",
+                  "@id": "https://newspapers.library.wales/iiif/2.0/image/4518268",
                   "@type": "oa:Annotation",
                   "motivation": "sc:painting",
                   "resource": {
@@ -149,7 +149,7 @@
                     "format": "image/jpeg",
                     "service": {
                       "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://newspapers.library.wales/iiif/2.0/image/",
+                      "@id": "https://newspapers.library.wales/iiif/2.0/image/4518268",
                       "profile": "http://iiif.io/api/image/2/level1.json",
                       "height": 3580,
                       "width": 2572,
@@ -169,7 +169,7 @@
                     "height": 3580,
                     "width": 2572
                   },
-                  "on": "https://newspapers.library.wales/iiif/2.0/image/"
+                  "on": "https://newspapers.library.wales/iiif/2.0/image/4518268"
                 }
               ]
             }
@@ -177,4 +177,3 @@
         }
       ]
     }
-    
