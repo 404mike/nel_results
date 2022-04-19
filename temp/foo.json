@@ -133,7 +133,7 @@
       "viewingHint": "paged",
       "canvases": [
         {
-          "@id": "https://newspapers.library.wales/iiif/2.0/image/3412218/info.json",
+          "@id": "https://newspapers.library.wales/iiif/2.0/image/3412218",
           "@type": "sc:Canvas",
           "label": "[Head & shoulders of man with glasses, looking left]",
           "height": 3580,
