@@ -140,7 +140,7 @@
           "width": 2572,
           "images": [
             {
-              "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4624345/annotation/4624345.json",
+              "@id": "https://newspapers.library.wales/iiif/2.0/image/3412218/info.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
