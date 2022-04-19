@@ -140,7 +140,7 @@
           "width": 2572,
           "images": [
             {
-              "@id": "https://newspapers.library.wales/iiif/2.0/image/3412218/info.json",
+              "@id": "https://newspapers.library.wales/iiif/2.0/image/3412218",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -149,7 +149,7 @@
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://newspapers.library.wales/iiif/2.0/image/3412218/info.json",
+                  "@id": "https://newspapers.library.wales/iiif/2.0/image/3412218",
                   "profile": "http://iiif.io/api/image/2/level1.json",
                   "height": 3580,
                   "width": 2572,
@@ -169,7 +169,7 @@
                 "height": 3580,
                 "width": 2572
               },
-              "on": "https://newspapers.library.wales/iiif/2.0/image/3412218/info.json"
+              "on": "https://newspapers.library.wales/iiif/2.0/image/3412218"
             }
           ]
         }
