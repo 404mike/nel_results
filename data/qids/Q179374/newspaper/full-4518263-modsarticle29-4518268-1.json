@@ -1,7 +1,7 @@
 {
       "@context": "http://iiif.io/api/presentation/2/context.json",
       "@type": "sc:Manifest",
-      "@id": "https://newspapers.library.wales/iiif/2.0/image/4518268",
+      "@id": "https://404mike.github.io/nel_results/data/qids/Q179374/newspaper/full-4518263-modsarticle29-4518268-1.json",
       "label": "[1883-09-15]",
       "metadata": [
         {
@@ -149,7 +149,7 @@
                     "format": "image/jpeg",
                     "service": {
                       "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://newspapers.library.wales/iiif/2.0/image/4518268",
+                      "@id": "https://404mike.github.io/nel_results/data/qids/Q179374/newspaper/full-4518263-modsarticle29-4518268-1.json",
                       "profile": "http://iiif.io/api/image/2/level1.json",
                       "height": 3580,
                       "width": 2572,

@@ -1,6 +1,6 @@
 {
     "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
-    "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q179374\/manifest.json",
+    "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q179374\/full-manifest.json",
     "type": "Collection",
     "label": {
         "en": [
@@ -26,7 +26,7 @@
     },
     "items": [
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q179374\/newspaper\/manifest.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q179374\/newspaper\/full-manifest.json",
             "type": "Collection",
             "label": {
                 "en": [
@@ -35,7 +35,7 @@
             }
         },
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q179374\/journal\/manifest.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q179374\/journal\/full-manifest.json",
             "type": "Collection",
             "label": {
                 "en": [
