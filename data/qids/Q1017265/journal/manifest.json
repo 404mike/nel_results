@@ -27,7 +27,7 @@
     "items": [
         {
             "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q1017265\/journal\/llgc-id2072171_llgc-id2074664.json",
-            "type": "Manifest",
+            "type": "Collection",
             "label": {
                 "en": [
                     "1860-09-01"
@@ -35,7 +35,7 @@
             }
         },
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q1017265\/Manifest\/llgc-id1238716_llgc-id1241072.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q1017265\/journal\/llgc-id1238716_llgc-id1241072.json",
             "type": "Collection",
             "label": {
                 "en": [

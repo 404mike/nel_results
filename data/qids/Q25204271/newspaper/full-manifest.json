@@ -26,7 +26,7 @@
     },
     "items": [
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q25204271\/Manifest\/full-4448515-modsarticle27-4448520-1.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q25204271\/newspaper\/full-4448515-modsarticle27-4448520-1.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -35,8 +35,8 @@
             }
         },
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q25204271\/Collection\/full-3608870-modsarticle52-3608875-2.json",
-            "type": "Collection",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q25204271\/newspaper\/full-3608870-modsarticle52-3608875-2.json",
+            "type": "Manifest",
             "label": {
                 "en": [
                     "1909-08-13"

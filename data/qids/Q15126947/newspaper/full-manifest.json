@@ -26,7 +26,7 @@
     },
     "items": [
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q15126947\/Manifest\/full-3722134-modsarticle149-3722141-1.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q15126947\/newspaper\/full-3722134-modsarticle149-3722141-1.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -35,8 +35,8 @@
             }
         },
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q15126947\/Collection\/full-3761701-modsarticle25-3761706-2.json",
-            "type": "Collection",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q15126947\/newspaper\/full-3761701-modsarticle25-3761706-2.json",
+            "type": "Manifest",
             "label": {
                 "en": [
                     "1892-01-22"

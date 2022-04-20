@@ -26,7 +26,7 @@
     },
     "items": [
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18936049\/Manifest\/full-3731049-modsarticle165-3731056-1.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18936049\/newspaper\/full-3731049-modsarticle165-3731056-1.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -35,8 +35,8 @@
             }
         },
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18936049\/Collection\/full-4235226-modsarticle61-4235231-1.json",
-            "type": "Collection",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18936049\/newspaper\/full-4235226-modsarticle61-4235231-1.json",
+            "type": "Manifest",
             "label": {
                 "en": [
                     "1899-03-11"

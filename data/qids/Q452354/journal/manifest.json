@@ -27,7 +27,7 @@
     "items": [
         {
             "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q452354\/journal\/llgc-id1226390_llgc-id1229253.json",
-            "type": "Manifest",
+            "type": "Collection",
             "label": {
                 "en": [
                     "1965-04-01"
@@ -35,7 +35,7 @@
             }
         },
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q452354\/Manifest\/llgc-id1191402_llgc-id1198008.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q452354\/journal\/llgc-id1191402_llgc-id1198008.json",
             "type": "Collection",
             "label": {
                 "en": [

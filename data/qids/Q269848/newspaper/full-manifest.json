@@ -26,7 +26,7 @@
     },
     "items": [
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q269848\/Manifest\/full-4159404-modsarticle72-4159407-1.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q269848\/newspaper\/full-4159404-modsarticle72-4159407-1.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -35,8 +35,8 @@
             }
         },
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q269848\/Collection\/full-3377954-modsarticle57-3377957-1.json",
-            "type": "Collection",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q269848\/newspaper\/full-3377954-modsarticle57-3377957-1.json",
+            "type": "Manifest",
             "label": {
                 "en": [
                     "1906-01-06"

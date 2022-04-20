@@ -26,7 +26,7 @@
     },
     "items": [
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q19325423\/Manifest\/full-4455377-modsarticle17-4455380-1.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q19325423\/newspaper\/full-4455377-modsarticle17-4455380-1.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -35,8 +35,8 @@
             }
         },
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q19325423\/Collection\/full-3563873-modsarticle47-3563881-1.json",
-            "type": "Collection",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q19325423\/newspaper\/full-3563873-modsarticle47-3563881-1.json",
+            "type": "Manifest",
             "label": {
                 "en": [
                     "1890-09-05"

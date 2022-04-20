@@ -26,7 +26,7 @@
     },
     "items": [
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6780174\/Manifest\/full-4615745-modsarticle47-4615749-1.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6780174\/newspaper\/full-4615745-modsarticle47-4615749-1.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -35,8 +35,8 @@
             }
         },
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6780174\/Collection\/full-3349853-modsarticle79-3349858-1.json",
-            "type": "Collection",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6780174\/newspaper\/full-3349853-modsarticle79-3349858-1.json",
+            "type": "Manifest",
             "label": {
                 "en": [
                     "1907-12-13"

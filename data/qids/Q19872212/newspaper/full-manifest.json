@@ -26,7 +26,7 @@
     },
     "items": [
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q19872212\/Manifest\/full-4317818-modsarticle13-4317821-1.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q19872212\/newspaper\/full-4317818-modsarticle13-4317821-1.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -35,8 +35,8 @@
             }
         },
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q19872212\/Collection\/full-4230740-modsarticle24-4230743-1.json",
-            "type": "Collection",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q19872212\/newspaper\/full-4230740-modsarticle24-4230743-1.json",
+            "type": "Manifest",
             "label": {
                 "en": [
                     "1885-06-13"

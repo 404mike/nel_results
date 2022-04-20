@@ -27,7 +27,7 @@
     "items": [
         {
             "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q238890\/journal\/llgc-id1373290_llgc-id1379464.json",
-            "type": "Manifest",
+            "type": "Collection",
             "label": {
                 "en": [
                     "1961-01-01"
@@ -35,7 +35,7 @@
             }
         },
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q238890\/Manifest\/llgc-id1373290_llgc-id1379464.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q238890\/journal\/llgc-id1373290_llgc-id1379464.json",
             "type": "Collection",
             "label": {
                 "en": [

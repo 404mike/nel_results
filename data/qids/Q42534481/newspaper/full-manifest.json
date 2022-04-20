@@ -26,7 +26,7 @@
     },
     "items": [
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q42534481\/Manifest\/full-3341144-modsarticle93-3341152-1.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q42534481\/newspaper\/full-3341144-modsarticle93-3341152-1.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -35,8 +35,8 @@
             }
         },
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q42534481\/Collection\/full-4587971-modsarticle4-4587974-1.json",
-            "type": "Collection",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q42534481\/newspaper\/full-4587971-modsarticle4-4587974-1.json",
+            "type": "Manifest",
             "label": {
                 "en": [
                     "1863-10-10"

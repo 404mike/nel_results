@@ -26,7 +26,7 @@
     },
     "items": [
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q600922\/Manifest\/full-4247657-modsarticle121-4247665-1.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q600922\/newspaper\/full-4247657-modsarticle121-4247665-1.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -35,8 +35,8 @@
             }
         },
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q600922\/Collection\/full-3806340-modsarticle87-3806346-1.json",
-            "type": "Collection",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q600922\/newspaper\/full-3806340-modsarticle87-3806346-1.json",
+            "type": "Manifest",
             "label": {
                 "en": [
                     "1902-01-15"

@@ -26,7 +26,7 @@
     },
     "items": [
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q3296137\/Manifest\/full-3481169-modsarticle66-3481173-1.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q3296137\/newspaper\/full-3481169-modsarticle66-3481173-1.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -35,8 +35,8 @@
             }
         },
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q3296137\/Collection\/full-3481164-modsarticle66-3481168-1.json",
-            "type": "Collection",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q3296137\/newspaper\/full-3481164-modsarticle66-3481168-1.json",
+            "type": "Manifest",
             "label": {
                 "en": [
                     "1901-09-14"

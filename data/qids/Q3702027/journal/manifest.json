@@ -27,7 +27,7 @@
     "items": [
         {
             "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q3702027\/journal\/llgc-id1277425_llgc-id1284127.json",
-            "type": "Manifest",
+            "type": "Collection",
             "label": {
                 "en": [
                     "1971-12-01"
@@ -35,7 +35,7 @@
             }
         },
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q3702027\/Manifest\/llgc-id1380216_llgc-id1385424.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q3702027\/journal\/llgc-id1380216_llgc-id1385424.json",
             "type": "Collection",
             "label": {
                 "en": [

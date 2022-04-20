@@ -26,7 +26,7 @@
     },
     "items": [
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q28925161\/Manifest\/full-3859261-modsarticle14-3859264-1.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q28925161\/newspaper\/full-3859261-modsarticle14-3859264-1.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -35,8 +35,8 @@
             }
         },
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q28925161\/Collection\/full-3098803-modsarticle50-3098810-1.json",
-            "type": "Collection",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q28925161\/newspaper\/full-3098803-modsarticle50-3098810-1.json",
+            "type": "Manifest",
             "label": {
                 "en": [
                     "1895-06-13"

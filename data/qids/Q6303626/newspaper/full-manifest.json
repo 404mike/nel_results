@@ -26,7 +26,7 @@
     },
     "items": [
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6303626\/Manifest\/full-3308411-modsarticle80-3308419-1.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6303626\/newspaper\/full-3308411-modsarticle80-3308419-1.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -35,8 +35,8 @@
             }
         },
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6303626\/Collection\/full-4115121-modsarticle30-4115123-1.json",
-            "type": "Collection",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6303626\/newspaper\/full-4115121-modsarticle30-4115123-1.json",
+            "type": "Manifest",
             "label": {
                 "en": [
                     "1916-03-18"

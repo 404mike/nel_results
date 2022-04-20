@@ -26,7 +26,7 @@
     },
     "items": [
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q38589865\/Manifest\/full-3064580-modsarticle32-3064582-1.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q38589865\/newspaper\/full-3064580-modsarticle32-3064582-1.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -35,8 +35,8 @@
             }
         },
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q38589865\/Collection\/full-3622535-modsarticle7-3622537-1.json",
-            "type": "Collection",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q38589865\/newspaper\/full-3622535-modsarticle7-3622537-1.json",
+            "type": "Manifest",
             "label": {
                 "en": [
                     "1891-08-29"

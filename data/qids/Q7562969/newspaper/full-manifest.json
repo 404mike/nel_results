@@ -26,7 +26,7 @@
     },
     "items": [
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q7562969\/Manifest\/full-3471321-modsarticle110-3471325-1.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q7562969\/newspaper\/full-3471321-modsarticle110-3471325-1.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -35,8 +35,8 @@
             }
         },
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q7562969\/Collection\/full-3314196-modsarticle8-3314198-1.json",
-            "type": "Collection",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q7562969\/newspaper\/full-3314196-modsarticle8-3314198-1.json",
+            "type": "Manifest",
             "label": {
                 "en": [
                     "1894-09-28"

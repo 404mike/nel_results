@@ -26,7 +26,7 @@
     },
     "items": [
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q26706969\/Manifest\/full-3428375-modsarticle158-3428382-1.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q26706969\/newspaper\/full-3428375-modsarticle158-3428382-1.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -35,8 +35,8 @@
             }
         },
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q26706969\/Collection\/full-3429485-modsarticle178-3429492-1.json",
-            "type": "Collection",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q26706969\/newspaper\/full-3429485-modsarticle178-3429492-1.json",
+            "type": "Manifest",
             "label": {
                 "en": [
                     "1892-07-16"

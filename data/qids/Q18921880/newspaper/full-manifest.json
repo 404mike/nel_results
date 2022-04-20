@@ -26,7 +26,7 @@
     },
     "items": [
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18921880\/Manifest\/full-4585647-modsarticle24-4585651-1.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18921880\/newspaper\/full-4585647-modsarticle24-4585651-1.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -35,8 +35,8 @@
             }
         },
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18921880\/Collection\/full-3332504-modsarticle55-3332512-1.json",
-            "type": "Collection",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18921880\/newspaper\/full-3332504-modsarticle55-3332512-1.json",
+            "type": "Manifest",
             "label": {
                 "en": [
                     "1875-04-30"

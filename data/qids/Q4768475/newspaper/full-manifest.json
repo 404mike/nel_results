@@ -26,7 +26,7 @@
     },
     "items": [
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q4768475\/Manifest\/full-4353647-modsarticle22-4353652-1.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q4768475\/newspaper\/full-4353647-modsarticle22-4353652-1.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -35,8 +35,8 @@
             }
         },
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q4768475\/Collection\/full-3787066-modsarticle14-3787068-1.json",
-            "type": "Collection",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q4768475\/newspaper\/full-3787066-modsarticle14-3787068-1.json",
+            "type": "Manifest",
             "label": {
                 "en": [
                     "1891-02-05"

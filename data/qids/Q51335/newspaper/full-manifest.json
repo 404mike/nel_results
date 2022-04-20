@@ -26,7 +26,7 @@
     },
     "items": [
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q51335\/Manifest\/full-3434544-modsarticle110-3434549-1.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q51335\/newspaper\/full-3434544-modsarticle110-3434549-1.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -35,8 +35,8 @@
             }
         },
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q51335\/Collection\/full-3371272-modsarticle190-3371282-1.json",
-            "type": "Collection",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q51335\/newspaper\/full-3371272-modsarticle190-3371282-1.json",
+            "type": "Manifest",
             "label": {
                 "en": [
                     "1897-11-27"

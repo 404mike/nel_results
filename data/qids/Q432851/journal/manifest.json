@@ -27,7 +27,7 @@
     "items": [
         {
             "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q432851\/journal\/llgc-id1326508_llgc-id1328086.json",
-            "type": "Manifest",
+            "type": "Collection",
             "label": {
                 "en": [
                     "1989-01-01"
@@ -35,7 +35,7 @@
             }
         },
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q432851\/Manifest\/llgc-id1326508_llgc-id1327555.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q432851\/journal\/llgc-id1326508_llgc-id1327555.json",
             "type": "Collection",
             "label": {
                 "en": [

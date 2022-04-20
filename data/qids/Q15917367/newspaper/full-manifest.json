@@ -26,7 +26,7 @@
     },
     "items": [
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q15917367\/Manifest\/full-3822461-modsarticle32-3822468-1.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q15917367\/newspaper\/full-3822461-modsarticle32-3822468-1.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -35,8 +35,8 @@
             }
         },
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q15917367\/Collection\/full-3822470-modsarticle33-3822477-1.json",
-            "type": "Collection",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q15917367\/newspaper\/full-3822470-modsarticle33-3822477-1.json",
+            "type": "Manifest",
             "label": {
                 "en": [
                     "1888-09-05"

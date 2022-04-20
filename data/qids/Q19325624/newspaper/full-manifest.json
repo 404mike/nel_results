@@ -26,7 +26,7 @@
     },
     "items": [
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q19325624\/Manifest\/full-4103657-modsarticle42-4103659-1.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q19325624\/newspaper\/full-4103657-modsarticle42-4103659-1.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -35,8 +35,8 @@
             }
         },
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q19325624\/Collection\/full-3885741-modsarticle119-3885749-1.json",
-            "type": "Collection",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q19325624\/newspaper\/full-3885741-modsarticle119-3885749-1.json",
+            "type": "Manifest",
             "label": {
                 "en": [
                     "1914-07-17"

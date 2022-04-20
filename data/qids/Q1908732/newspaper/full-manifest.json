@@ -26,7 +26,7 @@
     },
     "items": [
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q1908732\/Manifest\/full-3664492-modsarticle3-3664493-1.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q1908732\/newspaper\/full-3664492-modsarticle3-3664493-1.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -35,8 +35,8 @@
             }
         },
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q1908732\/Collection\/full-4157086-modsarticle51-4157088-1.json",
-            "type": "Collection",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q1908732\/newspaper\/full-4157086-modsarticle51-4157088-1.json",
+            "type": "Manifest",
             "label": {
                 "en": [
                     "1905-10-13"
