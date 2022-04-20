@@ -27,7 +27,7 @@
     "items": [
         {
             "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6759914\/newspaper\/3430880-modsarticle190-3430887-1.json",
-            "type": "Collection",
+            "type": "Manifest",
             "label": {
                 "en": [
                     "1895-07-06"
@@ -35,7 +35,7 @@
             }
         },
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6759914\/newspaper\/3094601-modsarticle39-3094607-1.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6759914\/Manifest\/3094601-modsarticle39-3094607-1.json",
             "type": "Collection",
             "label": {
                 "en": [

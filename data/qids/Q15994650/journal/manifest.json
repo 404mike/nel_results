@@ -27,7 +27,7 @@
     "items": [
         {
             "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q15994650\/journal\/llgc-id2092910_llgc-id2098335.json",
-            "type": "Collection",
+            "type": "Manifest",
             "label": {
                 "en": [
                     "1895-10-01"
@@ -35,7 +35,7 @@
             }
         },
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q15994650\/journal\/llgc-id1238716_llgc-id1240391.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q15994650\/Manifest\/llgc-id1238716_llgc-id1240391.json",
             "type": "Collection",
             "label": {
                 "en": [

@@ -27,7 +27,7 @@
     "items": [
         {
             "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18674139\/newspaper\/3320438-modsarticle20-3320441-1.json",
-            "type": "Collection",
+            "type": "Manifest",
             "label": {
                 "en": [
                     "1904-08-05"
@@ -35,7 +35,7 @@
             }
         },
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18674139\/newspaper\/3806205-modsarticle15-3806207-1.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18674139\/Manifest\/3806205-modsarticle15-3806207-1.json",
             "type": "Collection",
             "label": {
                 "en": [

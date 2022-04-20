@@ -27,7 +27,7 @@
     "items": [
         {
             "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21664582\/newspaper\/3487195-modsarticle60-3487198-1.json",
-            "type": "Collection",
+            "type": "Manifest",
             "label": {
                 "en": [
                     "1902-06-17"
@@ -35,7 +35,7 @@
             }
         },
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21664582\/newspaper\/3356275-modsarticle60-3356279-1.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21664582\/Manifest\/3356275-modsarticle60-3356279-1.json",
             "type": "Collection",
             "label": {
                 "en": [

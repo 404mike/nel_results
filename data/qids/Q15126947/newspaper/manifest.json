@@ -27,7 +27,7 @@
     "items": [
         {
             "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q15126947\/newspaper\/3722134-modsarticle149-3722141-1.json",
-            "type": "Collection",
+            "type": "Manifest",
             "label": {
                 "en": [
                     "1892-01-19"
@@ -35,7 +35,7 @@
             }
         },
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q15126947\/newspaper\/3761701-modsarticle25-3761706-2.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q15126947\/Manifest\/3761701-modsarticle25-3761706-2.json",
             "type": "Collection",
             "label": {
                 "en": [

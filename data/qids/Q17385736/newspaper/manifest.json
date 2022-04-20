@@ -27,7 +27,7 @@
     "items": [
         {
             "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q17385736\/newspaper\/4247999-modsarticle103-4248006-1.json",
-            "type": "Collection",
+            "type": "Manifest",
             "label": {
                 "en": [
                     "1903-10-31"
@@ -35,7 +35,7 @@
             }
         },
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q17385736\/newspaper\/3559416-modsarticle92-3559424-1.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q17385736\/Manifest\/3559416-modsarticle92-3559424-1.json",
             "type": "Collection",
             "label": {
                 "en": [

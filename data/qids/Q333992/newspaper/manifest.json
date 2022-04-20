@@ -27,7 +27,7 @@
     "items": [
         {
             "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q333992\/newspaper\/3563002-modsarticle13-3563007-1.json",
-            "type": "Collection",
+            "type": "Manifest",
             "label": {
                 "en": [
                     "1888-10-26"
@@ -35,7 +35,7 @@
             }
         },
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q333992\/newspaper\/3585540-modsarticle5-3585542-1.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q333992\/Manifest\/3585540-modsarticle5-3585542-1.json",
             "type": "Collection",
             "label": {
                 "en": [
