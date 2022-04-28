@@ -1,0 +1,48 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
+    "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q442167\/manifest.json",
+    "type": "Collection",
+    "label": {
+        "en": [
+            "Collections for Miriam Rothschild"
+        ]
+    },
+    "summary": {
+        "en": [
+            "Collection Summary for Miriam Rothschild"
+        ]
+    },
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "en": [
+                "Provided by Example Organization"
+            ]
+        }
+    },
+    "items": [
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q442167\/journal\/manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Journal articles"
+                ]
+            }
+        }
+    ],
+    "personDescription": {
+        "en": [
+            "British natural scientist and author (1908-2005)"
+        ]
+    },
+    "personImage": {
+        "en": [
+            "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/5f\/Miriam_Rothschild_appearing_on_%22After_Dark%22%2C_2_July_1988.jpg"
+        ]
+    }
+}

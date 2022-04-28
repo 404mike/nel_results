@@ -1,0 +1,57 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
+    "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q19043388\/manifest.json",
+    "type": "Collection",
+    "label": {
+        "en": [
+            "Collections for Mary Somerville"
+        ]
+    },
+    "summary": {
+        "en": [
+            "Collection Summary for Mary Somerville"
+        ]
+    },
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "en": [
+                "Provided by Example Organization"
+            ]
+        }
+    },
+    "items": [
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q19043388\/newspaper\/manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Newspaper articles"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q19043388\/journal\/manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Journal articles"
+                ]
+            }
+        }
+    ],
+    "personDescription": {
+        "en": [
+            "Scottish educationist and broadcasting executive"
+        ]
+    },
+    "personImage": {
+        "en": [
+            "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/47\/Mary_Somerville_-_BBC_-_October_1937_%28cropped%29.jpg"
+        ]
+    }
+}

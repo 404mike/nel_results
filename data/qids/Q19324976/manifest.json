@@ -1,0 +1,48 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
+    "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q19324976\/manifest.json",
+    "type": "Collection",
+    "label": {
+        "en": [
+            "Collections for Alicia Amherst"
+        ]
+    },
+    "summary": {
+        "en": [
+            "Collection Summary for Alicia Amherst"
+        ]
+    },
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "en": [
+                "Provided by Example Organization"
+            ]
+        }
+    },
+    "items": [
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q19324976\/newspaper\/manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Newspaper articles"
+                ]
+            }
+        }
+    ],
+    "personDescription": {
+        "en": [
+            "English horticulturist, botanist (1865-1941)"
+        ]
+    },
+    "personImage": {
+        "en": [
+            "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/12\/Alicia_Amherst_%281865-1941%29.png"
+        ]
+    }
+}

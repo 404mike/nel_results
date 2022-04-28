@@ -1,0 +1,48 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
+    "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5372983\/manifest.json",
+    "type": "Collection",
+    "label": {
+        "en": [
+            "Collections for Emma Louisa Turner"
+        ]
+    },
+    "summary": {
+        "en": [
+            "Collection Summary for Emma Louisa Turner"
+        ]
+    },
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "en": [
+                "Provided by Example Organization"
+            ]
+        }
+    },
+    "items": [
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5372983\/newspaper\/manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Newspaper articles"
+                ]
+            }
+        }
+    ],
+    "personDescription": {
+        "en": [
+            "British ornithologist and photographer (1867-1940)"
+        ]
+    },
+    "personImage": {
+        "en": [
+            "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/7\/73\/EL_Turner.jpg"
+        ]
+    }
+}

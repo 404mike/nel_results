@@ -1,0 +1,48 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
+    "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q3278112\/manifest.json",
+    "type": "Collection",
+    "label": {
+        "en": [
+            "Collections for Dorothea Bate"
+        ]
+    },
+    "summary": {
+        "en": [
+            "Collection Summary for Dorothea Bate"
+        ]
+    },
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "en": [
+                "Provided by Example Organization"
+            ]
+        }
+    },
+    "items": [
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q3278112\/journal\/manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Journal articles"
+                ]
+            }
+        }
+    ],
+    "personDescription": {
+        "en": [
+            "Welsh palaeontologist and archaeozoologist (1878-1951)"
+        ]
+    },
+    "personImage": {
+        "en": [
+            "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/40\/Dorothea_Minola_Alice_Bate.jpg"
+        ]
+    }
+}

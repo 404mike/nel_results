@@ -1,0 +1,48 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
+    "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q546303\/manifest.json",
+    "type": "Collection",
+    "label": {
+        "en": [
+            "Collections for Kate Marsden"
+        ]
+    },
+    "summary": {
+        "en": [
+            "Collection Summary for Kate Marsden"
+        ]
+    },
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "en": [
+                "Provided by Example Organization"
+            ]
+        }
+    },
+    "items": [
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q546303\/newspaper\/manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Newspaper articles"
+                ]
+            }
+        }
+    ],
+    "personDescription": {
+        "en": [
+            "Nursing heroine (1859-1931)"
+        ]
+    },
+    "personImage": {
+        "en": [
+            "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/30\/Kate_Marsden_in_magazine_%28cropped%29.jpg"
+        ]
+    }
+}

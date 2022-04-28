@@ -1,0 +1,48 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
+    "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q7416\/manifest.json",
+    "type": "Collection",
+    "label": {
+        "en": [
+            "Collections for Margaret Thatcher"
+        ]
+    },
+    "summary": {
+        "en": [
+            "Collection Summary for Margaret Thatcher"
+        ]
+    },
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "en": [
+                "Provided by Example Organization"
+            ]
+        }
+    },
+    "items": [
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q7416\/journal\/manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Journal articles"
+                ]
+            }
+        }
+    ],
+    "personDescription": {
+        "en": [
+            "British stateswoman and prime minister (1925\u20132013)"
+        ]
+    },
+    "personImage": {
+        "en": [
+            "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/3d\/Margaret_Thatcher_stock_portrait_%28cropped%29.jpg"
+        ]
+    }
+}

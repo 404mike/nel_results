@@ -1,0 +1,57 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
+    "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6179340\/full-manifest.json",
+    "type": "Collection",
+    "label": {
+        "en": [
+            "Collections for Jenny Jones"
+        ]
+    },
+    "summary": {
+        "en": [
+            "Collection Summary for Jenny Jones"
+        ]
+    },
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "en": [
+                "Provided by Example Organization"
+            ]
+        }
+    },
+    "items": [
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6179340\/newspaper\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Newspaper articles"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6179340\/journal\/manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Journal articles"
+                ]
+            }
+        }
+    ],
+    "personDescription": {
+        "en": [
+            "British politician (born 1949)"
+        ]
+    },
+    "personImage": {
+        "en": [
+            "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/a5\/Official_portrait_of_Baroness_Jones_of_Moulsecoomb_crop_2.jpg"
+        ]
+    }
+}

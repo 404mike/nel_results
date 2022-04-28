@@ -1,0 +1,38 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
+    "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5715904\/newspaper\/manifest.json",
+    "type": "Collection",
+    "label": {
+        "en": [
+            "Newspaper"
+        ]
+    },
+    "summary": {
+        "en": [
+            "Collection of Newspaper"
+        ]
+    },
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "en": [
+                "Provided by Example Organization"
+            ]
+        }
+    },
+    "items": [
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5715904\/newspaper\/3765136-modsarticle35-3765141-1.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1913-10-03"
+                ]
+            }
+        }
+    ]
+}

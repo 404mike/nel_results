@@ -1,0 +1,48 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
+    "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q7368981\/manifest.json",
+    "type": "Collection",
+    "label": {
+        "en": [
+            "Collections for Rosita Forbes"
+        ]
+    },
+    "summary": {
+        "en": [
+            "Collection Summary for Rosita Forbes"
+        ]
+    },
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "en": [
+                "Provided by Example Organization"
+            ]
+        }
+    },
+    "items": [
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q7368981\/journal\/manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Journal articles"
+                ]
+            }
+        }
+    ],
+    "personDescription": {
+        "en": [
+            "British writer and explorer"
+        ]
+    },
+    "personImage": {
+        "en": [
+            "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/1c\/Mrs._Rosita_Forbes_-_Photo_Mendoza_LCCN2014712854.jpg"
+        ]
+    }
+}

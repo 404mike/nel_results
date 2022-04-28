@@ -1,0 +1,57 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
+    "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6153630\/manifest.json",
+    "type": "Collection",
+    "label": {
+        "en": [
+            "Collections for Janet Vaughan"
+        ]
+    },
+    "summary": {
+        "en": [
+            "Collection Summary for Janet Vaughan"
+        ]
+    },
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "en": [
+                "Provided by Example Organization"
+            ]
+        }
+    },
+    "items": [
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6153630\/newspaper\/manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Newspaper articles"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6153630\/journal\/manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Journal articles"
+                ]
+            }
+        }
+    ],
+    "personDescription": {
+        "en": [
+            "British physiologist and radiobiologist (1899-1993)"
+        ]
+    },
+    "personImage": {
+        "en": [
+            "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/8e\/British_medical_mission_in_Lahore%2C_India4_%28cropped%29_%28cropped%29.jpg"
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
+    "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q334261\/manifest.json",
+    "type": "Collection",
+    "label": {
+        "en": [
+            "Collections for Maria Miller"
+        ]
+    },
+    "summary": {
+        "en": [
+            "Collection Summary for Maria Miller"
+        ]
+    },
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "en": [
+                "Provided by Example Organization"
+            ]
+        }
+    },
+    "items": [
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q334261\/newspaper\/manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Newspaper articles"
+                ]
+            }
+        }
+    ],
+    "personDescription": {
+        "en": [
+            "British politician (born 1964)"
+        ]
+    },
+    "personImage": {
+        "en": [
+            "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/b4\/Official_portrait_of_Mrs_Maria_Miller_crop_2.jpg"
+        ]
+    }
+}

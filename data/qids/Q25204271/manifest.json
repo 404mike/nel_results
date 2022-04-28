@@ -1,0 +1,48 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
+    "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q25204271\/manifest.json",
+    "type": "Collection",
+    "label": {
+        "en": [
+            "Collections for Tracer"
+        ]
+    },
+    "summary": {
+        "en": [
+            "Collection Summary for Tracer"
+        ]
+    },
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "en": [
+                "Provided by Example Organization"
+            ]
+        }
+    },
+    "items": [
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q25204271\/newspaper\/manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Newspaper articles"
+                ]
+            }
+        }
+    ],
+    "personDescription": {
+        "en": [
+            "fictional character in the 2016 video game Overwatch"
+        ]
+    },
+    "personImage": {
+        "en": [
+            "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/17\/Animethon_23_-_2016_%2828552553510%29.jpg"
+        ]
+    }
+}

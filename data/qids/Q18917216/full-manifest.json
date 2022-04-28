@@ -1,0 +1,48 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
+    "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18917216\/full-manifest.json",
+    "type": "Collection",
+    "label": {
+        "en": [
+            "Collections for Hilda Ormsby"
+        ]
+    },
+    "summary": {
+        "en": [
+            "Collection Summary for Hilda Ormsby"
+        ]
+    },
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "en": [
+                "Provided by Example Organization"
+            ]
+        }
+    },
+    "items": [
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18917216\/journal\/manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Journal articles"
+                ]
+            }
+        }
+    ],
+    "personDescription": {
+        "en": [
+            "n\u00e9e  Rodwell Jones (1877\u20131973), UK geographer"
+        ]
+    },
+    "personImage": {
+        "en": [
+            "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/7\/7b\/Dr_Hilda_Ormsby%2C_c1910.jpg"
+        ]
+    }
+}

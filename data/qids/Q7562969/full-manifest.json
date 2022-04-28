@@ -1,0 +1,57 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
+    "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q7562969\/full-manifest.json",
+    "type": "Collection",
+    "label": {
+        "en": [
+            "Collections for Sophie Bryant"
+        ]
+    },
+    "summary": {
+        "en": [
+            "Collection Summary for Sophie Bryant"
+        ]
+    },
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "en": [
+                "Provided by Example Organization"
+            ]
+        }
+    },
+    "items": [
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q7562969\/journal\/manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Journal articles"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q7562969\/newspaper\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Newspaper articles"
+                ]
+            }
+        }
+    ],
+    "personDescription": {
+        "en": [
+            "Irish mathematician"
+        ]
+    },
+    "personImage": {
+        "en": [
+            "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/f\/f9\/Sophie_Bryant.jpg"
+        ]
+    }
+}

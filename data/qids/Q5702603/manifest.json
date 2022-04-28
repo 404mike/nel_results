@@ -1,0 +1,48 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
+    "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5702603\/manifest.json",
+    "type": "Collection",
+    "label": {
+        "en": [
+            "Collections for Helen King"
+        ]
+    },
+    "summary": {
+        "en": [
+            "Collection Summary for Helen King"
+        ]
+    },
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "en": [
+                "Provided by Example Organization"
+            ]
+        }
+    },
+    "items": [
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5702603\/newspaper\/manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Newspaper articles"
+                ]
+            }
+        }
+    ],
+    "personDescription": {
+        "en": [
+            "British classical scholar and advocate for the medical humanities"
+        ]
+    },
+    "personImage": {
+        "en": [
+            "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/48\/%27Bodily_Fluids_Fluid_Bodies_in_Greek_and_Roman_Antiquity_32_%28cropped%29.jpg"
+        ]
+    }
+}
