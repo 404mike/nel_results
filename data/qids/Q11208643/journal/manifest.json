@@ -26,20 +26,20 @@
     },
     "items": [
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q11208643\/journal\/llgc-id1238716_llgc-id1240100.json",
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2461565\/manifest.json",
             "type": "Collection",
             "label": {
                 "en": [
-                    "1912-01-01"
+                    "1883-10-01"
                 ]
             }
         },
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q11208643\/journal\/llgc-id2092910_llgc-id2095890.json",
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1338267\/manifest.json",
             "type": "Collection",
             "label": {
                 "en": [
-                    "1887-07-01"
+                    "1982-09-01"
                 ]
             }
         }

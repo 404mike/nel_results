@@ -26,11 +26,20 @@
     },
     "items": [
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q4722948\/newspaper\/full-4171866-modsarticle75-4171869-1.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q4722948\/newspaper\/full-3610069-modsarticle32-3610075-1.json",
             "type": "Manifest",
             "label": {
                 "en": [
-                    "1907-01-16"
+                    "1897-03-06"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q4722948\/newspaper\/full-3349430-modsarticle81-3349435-1.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1907-01-18"
                 ]
             }
         }

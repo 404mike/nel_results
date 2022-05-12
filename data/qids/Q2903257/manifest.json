@@ -24,17 +24,7 @@
             ]
         }
     },
-    "items": [
-        {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q2903257\/newspaper\/manifest.json",
-            "type": "Collection",
-            "label": {
-                "en": [
-                    "Newspaper articles"
-                ]
-            }
-        }
-    ],
+    "items": [],
     "personDescription": {
         "en": [
             "British writer"

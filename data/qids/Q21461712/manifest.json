@@ -1,0 +1,38 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
+    "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21461712\/manifest.json",
+    "type": "Collection",
+    "label": {
+        "en": [
+            "Collections for John Harvey"
+        ]
+    },
+    "summary": {
+        "en": [
+            "Collection Summary for John Harvey"
+        ]
+    },
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "en": [
+                "Provided by Example Organization"
+            ]
+        }
+    },
+    "items": [],
+    "personDescription": {
+        "en": [
+            "artist, born 1959"
+        ]
+    },
+    "personImage": {
+        "en": [
+            ""
+        ]
+    }
+}

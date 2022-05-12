@@ -26,15 +26,6 @@
     },
     "items": [
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21467261\/newspaper\/full-manifest.json",
-            "type": "Collection",
-            "label": {
-                "en": [
-                    "Newspaper articles"
-                ]
-            }
-        },
-        {
             "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21467261\/journal\/manifest.json",
             "type": "Collection",
             "label": {

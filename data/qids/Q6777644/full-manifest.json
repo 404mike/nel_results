@@ -24,17 +24,7 @@
             ]
         }
     },
-    "items": [
-        {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6777644\/newspaper\/full-manifest.json",
-            "type": "Collection",
-            "label": {
-                "en": [
-                    "Newspaper articles"
-                ]
-            }
-        }
-    ],
+    "items": [],
     "personDescription": {
         "en": [
             "British artist"

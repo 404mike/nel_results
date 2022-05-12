@@ -71,6 +71,15 @@
             }
         },
         {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q3404191\/manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for James Dickson Innes"
+                ]
+            }
+        },
+        {
             "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q4722948\/manifest.json",
             "type": "Collection",
             "label": {
@@ -242,6 +251,15 @@
             }
         },
         {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q19921507\/manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for John Wheatley"
+                ]
+            }
+        },
+        {
             "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q20054436\/manifest.json",
             "type": "Collection",
             "label": {
@@ -256,6 +274,15 @@
             "label": {
                 "en": [
                     "Collections for R. K. Penson"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q20734392\/manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Samuel Maurice Jones"
                 ]
             }
         },
@@ -310,6 +337,15 @@
             "label": {
                 "en": [
                     "Collections for John Cambrian Rowland"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21461712\/manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for John Harvey"
                 ]
             }
         },
