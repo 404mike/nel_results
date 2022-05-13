@@ -26,20 +26,20 @@
     },
     "items": [
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21456839\/newspaper\/3722053-modsarticle20-3722057-1.json",
-            "type": "Manifest",
-            "label": {
-                "en": [
-                    "1892-01-08"
-                ]
-            }
-        },
-        {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21456839\/newspaper\/3429242-modsarticle65-3429246-1.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21456839\/newspaper\/3429242-modsarticle65-3429246-1-ART65.json",
             "type": "Manifest",
             "label": {
                 "en": [
                     "1892-01-09"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21456839\/newspaper\/3672572-modsarticle9-3672574-1-ART9.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1887-03-11"
                 ]
             }
         }

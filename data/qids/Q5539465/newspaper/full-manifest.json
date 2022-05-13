@@ -26,20 +26,20 @@
     },
     "items": [
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5539465\/newspaper\/full-3077147-modsarticle10-3077149-1.json",
-            "type": "Manifest",
-            "label": {
-                "en": [
-                    "1878-01-25"
-                ]
-            }
-        },
-        {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5539465\/newspaper\/full-3074921-modsarticle8-3074924-1.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5539465\/newspaper\/full-3096423-modsarticle52-3096430-1-ART52.json",
             "type": "Manifest",
             "label": {
                 "en": [
                     "1869-05-29"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5539465\/newspaper\/full-3815834-modsarticle116-3815845-1-ART119.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1910-10-01"
                 ]
             }
         }

@@ -26,11 +26,20 @@
     },
     "items": [
         {
-            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1193281\/manifest.json",
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/4737663\/manifest.json",
             "type": "Collection",
             "label": {
                 "en": [
-                    "1953-01-01"
+                    "1937-01-01"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/4737663\/manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "1937-01-01"
                 ]
             }
         }

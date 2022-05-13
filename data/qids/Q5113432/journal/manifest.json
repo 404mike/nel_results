@@ -26,20 +26,20 @@
     },
     "items": [
         {
-            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1218519\/manifest.json",
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2408550\/manifest.json",
             "type": "Collection",
             "label": {
                 "en": [
-                    "1977-01-01"
+                    "1908-10-01"
                 ]
             }
         },
         {
-            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1403194\/manifest.json",
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1311424\/manifest.json",
             "type": "Collection",
             "label": {
                 "en": [
-                    "1928-01-01"
+                    "1914-05-01"
                 ]
             }
         }

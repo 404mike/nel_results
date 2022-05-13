@@ -26,20 +26,20 @@
     },
     "items": [
         {
-            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2745294\/manifest.json",
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2994356\/manifest.json",
             "type": "Collection",
             "label": {
                 "en": [
-                    "1896-01-01"
+                    "1859-10-01"
                 ]
             }
         },
         {
-            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2745294\/manifest.json",
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1276229\/manifest.json",
             "type": "Collection",
             "label": {
                 "en": [
-                    "1896-01-01"
+                    "1992-01-01"
                 ]
             }
         }
