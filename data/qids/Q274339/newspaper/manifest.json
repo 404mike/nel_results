@@ -42,6 +42,33 @@
                     "1899-08-11"
                 ]
             }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q274339\/newspaper\/3342935-modsarticle32-3342938-1-ART32.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1899-08-11"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q274339\/newspaper\/4123561-modsarticle64-4123565-1-ART65.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1917-12-29"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q274339\/newspaper\/3275731-modsarticle30-3275734-1-ART30.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1898-05-03"
+                ]
+            }
         }
     ]
 }

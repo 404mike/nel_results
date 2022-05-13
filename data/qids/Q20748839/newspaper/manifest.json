@@ -42,6 +42,33 @@
                     "1915-07-03"
                 ]
             }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q20748839\/newspaper\/3558030-modsarticle56-3558036-1-ART56.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1878-02-15"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q20748839\/newspaper\/3612073-modsarticle9-3612075-1-ART9.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1916-07-22"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q20748839\/newspaper\/3565869-modsarticle64-3565877-1-ART64.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1895-12-06"
+                ]
+            }
         }
     ]
 }

@@ -33,6 +33,33 @@
                     "1897-02-27"
                 ]
             }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21462817\/newspaper\/full-3378927-modsarticle35-3378929-1-ART35.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1908-06-13"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21462817\/newspaper\/full-3064813-modsarticle17-3064815-1-ART17.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1909-01-15"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21462817\/newspaper\/full-4243087-modsarticle49-4243093-1-ART52.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1915-08-06"
+                ]
+            }
         }
     ]
 }

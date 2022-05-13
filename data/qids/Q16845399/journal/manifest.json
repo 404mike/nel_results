@@ -42,6 +42,15 @@
                     "1892-03-18"
                 ]
             }
+        },
+        {
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2016256\/manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "1892-03-04"
+                ]
+            }
         }
     ]
 }

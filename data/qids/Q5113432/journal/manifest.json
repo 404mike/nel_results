@@ -42,6 +42,33 @@
                     "1914-05-01"
                 ]
             }
+        },
+        {
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1311206\/manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "1914-01-01"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1327555\/manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "1984-01-01"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1326905\/manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "1978-07-01"
+                ]
+            }
         }
     ]
 }

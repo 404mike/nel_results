@@ -42,6 +42,33 @@
                     "1854-03-03"
                 ]
             }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q20631844\/newspaper\/4348636-modsarticle2-4348638-1-ART2.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1855-09-14"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q20631844\/newspaper\/4347319-modsarticle1-4347320-1-ART1.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1851-02-07"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q20631844\/newspaper\/4347319-modsarticle1-4347320-1-ART1.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1851-02-07"
+                ]
+            }
         }
     ]
 }

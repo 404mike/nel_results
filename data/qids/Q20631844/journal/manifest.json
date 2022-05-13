@@ -42,6 +42,33 @@
                     "1992-01-01"
                 ]
             }
+        },
+        {
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1099180\/manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "1990-01-01"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2095618\/manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "1886-07-01"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2990655\/manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "1851-10-01"
+                ]
+            }
         }
     ]
 }

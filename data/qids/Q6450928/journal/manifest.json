@@ -42,6 +42,15 @@
                     "1994-01-01"
                 ]
             }
+        },
+        {
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1217316\/manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "1958-09-01"
+                ]
+            }
         }
     ]
 }

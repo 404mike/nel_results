@@ -42,6 +42,33 @@
                     "1910-09-24"
                 ]
             }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6759645\/newspaper\/full-3661735-modsarticle38-3661738-1-ART38.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1906-10-12"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6759645\/newspaper\/full-4128633-modsarticle33-4128639-1-ART34.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1914-07-17"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6759645\/newspaper\/full-3678163-modsarticle10-3678165-1-ART10.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1914-04-17"
+                ]
+            }
         }
     ]
 }

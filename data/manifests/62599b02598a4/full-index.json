@@ -53,24 +53,6 @@
             }
         },
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q1886336\/full-manifest.json",
-            "type": "Collection",
-            "label": {
-                "en": [
-                    "Collections for Ben Johnson"
-                ]
-            }
-        },
-        {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q2903257\/full-manifest.json",
-            "type": "Collection",
-            "label": {
-                "en": [
-                    "Collections for Bill James"
-                ]
-            }
-        },
-        {
             "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q3404191\/full-manifest.json",
             "type": "Collection",
             "label": {
@@ -152,15 +134,6 @@
             }
         },
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6777644\/full-manifest.json",
-            "type": "Collection",
-            "label": {
-                "en": [
-                    "Collections for Martyn Jones"
-                ]
-            }
-        },
-        {
             "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q7025356\/full-manifest.json",
             "type": "Collection",
             "label": {
@@ -233,15 +206,6 @@
             }
         },
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18601440\/full-manifest.json",
-            "type": "Collection",
-            "label": {
-                "en": [
-                    "Collections for Merlin James"
-                ]
-            }
-        },
-        {
             "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q19360836\/full-manifest.json",
             "type": "Collection",
             "label": {
@@ -256,15 +220,6 @@
             "label": {
                 "en": [
                     "Collections for John Wheatley"
-                ]
-            }
-        },
-        {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q20054436\/full-manifest.json",
-            "type": "Collection",
-            "label": {
-                "en": [
-                    "Collections for Gwilym Prichard"
                 ]
             }
         },
@@ -337,15 +292,6 @@
             "label": {
                 "en": [
                     "Collections for John Cambrian Rowland"
-                ]
-            }
-        },
-        {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21461712\/full-manifest.json",
-            "type": "Collection",
-            "label": {
-                "en": [
-                    "Collections for John Harvey"
                 ]
             }
         },

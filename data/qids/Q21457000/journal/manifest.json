@@ -33,6 +33,24 @@
                     "1995-01-01"
                 ]
             }
+        },
+        {
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1196881\/manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "1990-01-01"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1097087\/manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "1984-01-01"
+                ]
+            }
         }
     ]
 }

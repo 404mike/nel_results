@@ -42,6 +42,33 @@
                     "1916-03-13"
                 ]
             }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q562540\/newspaper\/full-4104448-modsarticle38-4104450-1-ART38.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1917-12-27"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q562540\/newspaper\/full-3413160-modsarticle62-3413166-1-ART63.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1916-02-25"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q562540\/newspaper\/full-4103632-modsarticle16-4103633-1-ART16.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1917-06-21"
+                ]
+            }
         }
     ]
 }

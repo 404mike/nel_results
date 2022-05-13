@@ -42,6 +42,33 @@
                     "1903-05-01"
                 ]
             }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q16845399\/newspaper\/3417596-modsarticle48-3417602-1-ART48.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1905-03-24"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q16845399\/newspaper\/3408919-modsarticle57-3408927-1-ART58.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1905-06-16"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q16845399\/newspaper\/3408919-modsarticle57-3408927-1-ART58.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1905-06-16"
+                ]
+            }
         }
     ]
 }

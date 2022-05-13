@@ -42,6 +42,33 @@
                     "1878-07-01"
                 ]
             }
+        },
+        {
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1240100\/manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "1912-01-01"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1338663\/manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "1986-09-01"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2471278\/manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "1905-01-01"
+                ]
+            }
         }
     ]
 }

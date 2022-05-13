@@ -42,6 +42,33 @@
                     "1876-09-02"
                 ]
             }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18200042\/newspaper\/full-3854472-modsarticle13-3854477-1-ART13.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1877-04-14"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18200042\/newspaper\/full-3364231-modsarticle148-3364239-1-ART148.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1880-04-24"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18200042\/newspaper\/full-3856053-modsarticle51-3856058-1-ART51.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1866-11-03"
+                ]
+            }
         }
     ]
 }
