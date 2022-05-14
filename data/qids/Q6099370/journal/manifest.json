@@ -27,7 +27,7 @@
     "items": [
         {
             "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/4737663\/manifest.json",
-            "type": "Collection",
+            "type": "Manifest",
             "label": {
                 "en": [
                     "1937-01-01"

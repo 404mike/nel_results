@@ -27,7 +27,7 @@
     "items": [
         {
             "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1415636\/manifest.json",
-            "type": "Collection",
+            "type": "Manifest",
             "label": {
                 "en": [
                     "1962-01-01"

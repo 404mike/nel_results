@@ -27,7 +27,7 @@
     "items": [
         {
             "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1421693\/manifest.json",
-            "type": "Collection",
+            "type": "Manifest",
             "label": {
                 "en": [
                     "1984-01-01"
@@ -36,7 +36,7 @@
         },
         {
             "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1415849\/manifest.json",
-            "type": "Collection",
+            "type": "Manifest",
             "label": {
                 "en": [
                     "1962-01-01"
@@ -45,7 +45,7 @@
         },
         {
             "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1316283\/manifest.json",
-            "type": "Collection",
+            "type": "Manifest",
             "label": {
                 "en": [
                     "1926-05-01"

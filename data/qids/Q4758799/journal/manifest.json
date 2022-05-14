@@ -27,7 +27,7 @@
     "items": [
         {
             "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1217883\/manifest.json",
-            "type": "Collection",
+            "type": "Manifest",
             "label": {
                 "en": [
                     "1959-04-01"

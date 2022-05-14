@@ -27,7 +27,7 @@
     "items": [
         {
             "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1327777\/manifest.json",
-            "type": "Collection",
+            "type": "Manifest",
             "label": {
                 "en": [
                     "1986-01-01"
@@ -36,7 +36,7 @@
         },
         {
             "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1329235\/manifest.json",
-            "type": "Collection",
+            "type": "Manifest",
             "label": {
                 "en": [
                     "1998-01-01"
