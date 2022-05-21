@@ -1,0 +1,38 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
+    "id": "https:\/\/404mike.github.io\/nel_results\/data\/manifests\/6288ddb5063af\/full-index.json",
+    "type": "Collection",
+    "label": {
+        "en": [
+            "Collections for Rev Kyffin Williams"
+        ]
+    },
+    "summary": {
+        "en": [
+            "Collection Summary for Rev Kyffin Williams"
+        ]
+    },
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "en": [
+                "Provided by Example Organization"
+            ]
+        }
+    },
+    "items": [
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Kyffin Williams"
+                ]
+            }
+        }
+    ]
+}

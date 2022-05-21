@@ -1,0 +1,1028 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
+    "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/manifest.json",
+    "type": "Collection",
+    "label": {
+        "en": [
+            "Newspaper"
+        ]
+    },
+    "summary": {
+        "en": [
+            "Collection of Newspaper"
+        ]
+    },
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "en": [
+                "Provided by Example Organization"
+            ]
+        }
+    },
+    "items": [
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/4242565-modsarticle110-4242573-1-ART111.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1914-06-26"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3614557-modsarticle18-3614561-1-ART21.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1892-09-08"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3614557-modsarticle18-3614561-1-ART21.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1892-09-08"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3614581-modsarticle10-3614585-2-ART11.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1892-09-29"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3571780-modsarticle54-3571787-1-ART56.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1907-09-20"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3880260-modsarticle68-3880265-1-ART71.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1910-05-26"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3605595-modsarticle6-3605597-1-ART6.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1902-05-09"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3600123-modsarticle61-3600130-1-ART64.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1888-04-13"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/4243974-modsarticle39-4243978-1-ART39.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1917-08-24"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3571780-modsarticle54-3571787-1-ART56.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1907-09-20"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3835215-modsarticle95-3835223-1-ART98.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1907-06-27"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3861799-modsarticle13-3861801-1-ART13.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1897-06-19"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3862339-modsarticle85-3862347-1-ART85.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1898-12-03"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/4454495-modsarticle58-4454501-1-ART59.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1890-02-01"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3619581-modsarticle31-3619585-1-ART33.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1905-10-27"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3411156-modsarticle10-3411158-1-ART10.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1909-01-01"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3650015-modsarticle82-3650024-1-ART83.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1910-10-28"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3855773-modsarticle27-3855777-1-ART27.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1878-11-30"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3609147-modsarticle11-3609149-1-ART12.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1910-03-25"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3605280-modsarticle62-3605287-2-ART83.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1901-08-16"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3429800-modsarticle10-3429801-1-ART10.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1893-03-18"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3648962-modsarticle98-3648973-1-ART100.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1909-04-09"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3606705-modsarticle6-3606707-1-ART6.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1904-09-30"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3619856-modsarticle8-3619858-1-ART8.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1906-03-16"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3712541-modsarticle15-3712547-1-ART17.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1897-12-16"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3619382-modsarticle25-3619386-1-ART26.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1905-07-14"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3805855-modsarticle91-3805861-1-ART92.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1900-11-21"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3614521-modsarticle17-3614525-2-ART19.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1892-07-28"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3614539-modsarticle1-3614540-1-ART1.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1892-08-25"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3614529-modsarticle1-3614530-1-ART1.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1892-08-18"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3621094-modsarticle62-3621106-1-ART66.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1907-06-28"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3621094-modsarticle62-3621106-1-ART66.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1907-06-28"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3835111-modsarticle44-3835117-1-ART46.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1907-05-02"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/4242961-modsarticle99-4242969-1-ART102.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1915-04-30"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3835098-modsarticle58-3835104-1-ART60.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1907-04-25"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/4243517-modsarticle19-4243519-1-ART19.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1916-08-18"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3834959-modsarticle157-3834971-1-ART165.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1907-02-07"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3600708-modsarticle62-3600714-1-ART63.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1891-07-17"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/4454468-modsarticle62-4454474-1-ART63.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1890-01-11"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/4590223-modsarticle41-4590229-1-ART42.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1883-09-08"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3766002-modsarticle77-3766010-1-ART78.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1889-11-08"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3614765-modsarticle9-3614769-2-ART11.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1894-07-20"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/4456088-modsarticle48-4456094-1-ART48.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1893-06-24"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3855764-modsarticle35-3855768-1-ART35.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1878-11-23"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3615007-modsarticle11-3615011-1-ART11.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1895-05-17"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3766083-modsarticle57-3766089-1-ART59.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1890-01-10"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3654956-modsarticle38-3654962-1-ART40.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1906-03-17"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3835085-modsarticle41-3835091-1-ART42.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1907-04-18"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3614473-modsarticle9-3614477-2-ART14.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1892-06-09"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3614481-modsarticle13-3614485-3-ART19.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1892-06-16"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3614465-modsarticle6-3614469-2-ART8.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1892-06-02"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3570277-modsarticle80-3570285-1-ART85.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1904-08-26"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3572698-modsarticle15-3572701-1-ART16.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1909-09-03"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/4242700-modsarticle98-4242707-1-ART99.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1914-10-09"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/4456385-modsarticle32-4456390-1-ART32.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1894-02-10"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/4454270-modsarticle50-4454276-1-ART50.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1889-08-10"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3607074-modsarticle108-3607082-1-ART110.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1905-08-11"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3607074-modsarticle108-3607082-1-ART110.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1905-08-11"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3726765-modsarticle11-3726768-1-ART11.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1895-08-17"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/4455377-modsarticle33-4455383-1-ART34.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1891-12-19"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3835202-modsarticle119-3835211-1-ART123.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1907-06-20"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3835202-modsarticle119-3835211-1-ART123.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1907-06-20"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3835202-modsarticle119-3835211-1-ART123.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1907-06-20"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3605721-modsarticle90-3605729-1-ART91.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1902-08-15"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3862177-modsarticle68-3862185-1-ART71.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1898-07-23"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3608451-modsarticle135-3608458-1-ART138.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1908-09-04"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3608870-modsarticle56-3608875-2-ART62.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1909-08-13"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3836400-modsarticle56-3836404-1-ART56.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1909-04-08"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3725104-modsarticle23-3725108-1-ART24.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1890-09-13"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3833459-modsarticle3-3833461-1-ART3.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1905-03-03"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3836182-modsarticle97-3836188-1-ART98.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1908-12-03"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3606831-modsarticle50-3606836-1-ART51.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1905-01-06"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/4592242-modsarticle40-4592248-1-ART41.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1885-12-05"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3621079-modsarticle81-3621090-1-ART86.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1907-06-21"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/4243634-modsarticle76-4243640-1-ART79.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1916-11-17"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/4243946-modsarticle52-4243950-1-ART52.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1917-07-27"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3343809-modsarticle55-3343817-1-ART55.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1874-03-27"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3835909-modsarticle164-3835918-1-ART167.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1908-07-09"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3835072-modsarticle60-3835078-1-ART60.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1907-04-11"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/4243882-modsarticle29-4243885-1-ART29.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1917-06-01"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/4454648-modsarticle51-4454654-1-ART52.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1890-05-31"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3880650-modsarticle79-3880657-1-ART81.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1910-12-22"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3614757-modsarticle10-3614761-2-ART11.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1894-07-13"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3870088-modsarticle71-3870095-1-ART72.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1896-09-29"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3606174-modsarticle66-3606180-1-ART66.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1903-07-31"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3862159-modsarticle8-3862161-1-ART8.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1898-07-02"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3862159-modsarticle8-3862161-1-ART8.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1898-07-02"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3609327-modsarticle5-3609329-1-ART6.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1910-08-12"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3614549-modsarticle1-3614550-1-ART1.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1892-09-01"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3614565-modsarticle11-3614569-2-ART15.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1892-09-15"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3614565-modsarticle11-3614569-2-ART15.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1892-09-15"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3615251-modsarticle9-3615255-1-ART10.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1896-02-21"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3614513-modsarticle10-3614517-2-ART12.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1892-07-21"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3623231-modsarticle47-3623236-1-ART48.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1893-10-07"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3614773-modsarticle8-3614777-2-ART9.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1894-07-27"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3614789-modsarticle6-3614793-2-ART7.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1894-08-10"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3562471-modsarticle32-3562479-1-ART32.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1887-09-09"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3614489-modsarticle12-3614493-2-ART14.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1892-06-23"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3614497-modsarticle12-3614501-3-ART18.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1892-06-30"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3614505-modsarticle12-3614509-3-ART17.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1892-07-07"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3861361-modsarticle51-3861369-1-ART51.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1896-07-18"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3766146-modsarticle70-3766152-1-ART71.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1890-02-28"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3880249-modsarticle151-3880256-1-ART153.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1910-05-19"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3614573-modsarticle13-3614577-1-ART14.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1892-09-22"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3614589-modsarticle10-3614593-3-ART14.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1892-10-06"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3562669-modsarticle35-3562677-1-ART36.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1888-02-10"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/4243078-modsarticle71-4243085-1-ART75.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1915-07-30"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/4242727-modsarticle95-4242734-1-ART96.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1914-10-30"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3614744-modsarticle15-3614748-2-ART16.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1894-06-29"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3601797-modsarticle126-3601805-1-ART126.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1893-11-17"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/4242403-modsarticle39-4242407-1-ART40.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1914-02-20"
+                ]
+            }
+        }
+    ]
+}
