@@ -1,0 +1,58 @@
+[
+    {
+        "type": "collection",
+        "person": "Collections for Kyffin Williams",
+        "personDescription": "Welsh landscape painter (1918-2006)",
+        "personImage": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/e8\/Cerflun_Kyffin_Williams_statue.jpg",
+        "data": [
+            {
+                "type": "collection",
+                "collection_type": "journals",
+                "data": [
+                    {
+                        "label": "1998-01-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1083764\/manifest.json"
+                    },
+                    {
+                        "label": "1994-01-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1276399\/manifest.json"
+                    },
+                    {
+                        "label": "1958-09-01",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1217316\/manifest.json"
+                    }
+                ]
+            },
+            {
+                "type": "collection",
+                "collection_type": "works",
+                "data": [
+                    {
+                        "label": "Snowdon from T\u0177 Obry",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/4624341\/manifest.json"
+                    },
+                    {
+                        "label": "Col des Aravis, Haute Savoie",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/4622709\/manifest.json"
+                    },
+                    {
+                        "label": "Mountain landscape with trees and field in the foreground",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/4622738\/manifest.json"
+                    },
+                    {
+                        "label": "The way to the cottages",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/4622763\/manifest.json"
+                    },
+                    {
+                        "label": "Lone cottage",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/4622774\/manifest.json"
+                    },
+                    {
+                        "label": "Cottage in the fields",
+                        "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/4622778\/manifest.json"
+                    }
+                ]
+            }
+        ]
+    }
+]
