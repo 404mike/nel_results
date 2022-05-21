@@ -10,18 +10,6 @@
                 "collection_type": "newspaper",
                 "data": [
                     {
-                        "label": "1914-06-26",
-                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/4242565-modsarticle110-4242573-1-ART111.json"
-                    },
-                    {
-                        "label": "1892-09-08",
-                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3614557-modsarticle18-3614561-1-ART21.json"
-                    },
-                    {
-                        "label": "1892-09-29",
-                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3614581-modsarticle10-3614585-2-ART11.json"
-                    },
-                    {
                         "label": "1907-09-20",
                         "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3571780-modsarticle54-3571787-1-ART56.json"
                     },
@@ -40,10 +28,6 @@
                     {
                         "label": "1917-08-24",
                         "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/4243974-modsarticle39-4243978-1-ART39.json"
-                    },
-                    {
-                        "label": "1907-09-20",
-                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3571780-modsarticle54-3571787-1-ART56.json"
                     },
                     {
                         "label": "1907-06-27",
@@ -124,10 +108,6 @@
                     {
                         "label": "1892-08-18",
                         "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3614529-modsarticle1-3614530-1-ART1.json"
-                    },
-                    {
-                        "label": "1907-06-28",
-                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3621094-modsarticle62-3621106-1-ART66.json"
                     },
                     {
                         "label": "1907-06-28",
@@ -234,24 +214,12 @@
                         "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3607074-modsarticle108-3607082-1-ART110.json"
                     },
                     {
-                        "label": "1905-08-11",
-                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3607074-modsarticle108-3607082-1-ART110.json"
-                    },
-                    {
                         "label": "1895-08-17",
                         "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3726765-modsarticle11-3726768-1-ART11.json"
                     },
                     {
                         "label": "1891-12-19",
                         "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/4455377-modsarticle33-4455383-1-ART34.json"
-                    },
-                    {
-                        "label": "1907-06-20",
-                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3835202-modsarticle119-3835211-1-ART123.json"
-                    },
-                    {
-                        "label": "1907-06-20",
-                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3835202-modsarticle119-3835211-1-ART123.json"
                     },
                     {
                         "label": "1907-06-20",
@@ -350,20 +318,12 @@
                         "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3862159-modsarticle8-3862161-1-ART8.json"
                     },
                     {
-                        "label": "1898-07-02",
-                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3862159-modsarticle8-3862161-1-ART8.json"
-                    },
-                    {
                         "label": "1910-08-12",
                         "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3609327-modsarticle5-3609329-1-ART6.json"
                     },
                     {
                         "label": "1892-09-01",
                         "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3614549-modsarticle1-3614550-1-ART1.json"
-                    },
-                    {
-                        "label": "1892-09-15",
-                        "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/newspaper\/3614565-modsarticle11-3614569-2-ART15.json"
                     },
                     {
                         "label": "1892-09-15",
