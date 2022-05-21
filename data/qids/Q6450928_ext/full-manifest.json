@@ -1,6 +1,6 @@
 {
     "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
-    "id": "https:\/\/404mike.github.io\/nel_results\/data\/manifests\/6288d6fb346a6\/index.json",
+    "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6450928_ext\/full-manifest.json",
     "type": "Collection",
     "label": {
         "en": [
@@ -26,13 +26,23 @@
     },
     "items": [
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6450928_ext\/manifest.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6450928\/journal\/manifest.json",
             "type": "Collection",
             "label": {
                 "en": [
-                    "Collections for Kyffin Williams"
+                    "Journal articles"
                 ]
             }
         }
-    ]
+    ],
+    "personDescription": {
+        "en": [
+            "Welsh landscape painter (1918-2006)"
+        ]
+    },
+    "personImage": {
+        "en": [
+            "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/e8\/Cerflun_Kyffin_Williams_statue.jpg"
+        ]
+    }
 }

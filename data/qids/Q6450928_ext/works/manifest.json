@@ -1,0 +1,83 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
+    "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6450928_ext\/works\/manifest.json",
+    "type": "Collection",
+    "label": {
+        "en": [
+            "Journal"
+        ]
+    },
+    "summary": {
+        "en": [
+            "Collection of Journal"
+        ]
+    },
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "en": [
+                "Provided by Example Organization"
+            ]
+        }
+    },
+    "items": [
+        {
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/4624341\/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Snowdon from Tŷ Obry"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/4622709\/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Col des Aravis, Haute Savoie"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/4622738\/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Mountain landscape with trees and field in the foreground"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/4622763\/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "The way to the cottages"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/4622774\/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Lone cottage"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/4622778\/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Cottage in the fields"
+                ]
+            }
+        }
+    ]
+}
