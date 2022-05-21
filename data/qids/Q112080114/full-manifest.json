@@ -33,25 +33,16 @@
                     "Newspaper articles"
                 ]
             }
-        },
-        {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q112080114\/journal\/manifest.json",
-            "type": "Collection",
-            "label": {
-                "en": [
-                    "Journal articles"
-                ]
-            }
         }
     ],
     "personDescription": {
         "en": [
-            "Welsh landscape painter (1918-2006)"
+            "Rev Kyffin Williams"
         ]
     },
     "personImage": {
         "en": [
-            "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/e8\/Cerflun_Kyffin_Williams_statue.jpg"
+            ""
         ]
     }
 }
