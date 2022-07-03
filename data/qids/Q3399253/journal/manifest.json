@@ -1,0 +1,290 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
+    "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q3399253\/journal\/manifest.json",
+    "type": "Collection",
+    "label": {
+        "en": [
+            "Journal"
+        ]
+    },
+    "summary": {
+        "en": [
+            "Collection of Journal"
+        ]
+    },
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "en": [
+                "Provided by Example Organization"
+            ]
+        }
+    },
+    "items": [
+        {
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2099025\/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1898-01-01"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2017160\/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1890-09-01"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2427171\/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1888-09-01"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2007292\/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1857-06-01"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2904609\/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1898-10-01"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2859166\/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1896-10-01"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2905990\/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1908-06-01"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2095165\/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1884-02-01"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/4721846\/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1908-01-01"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2038891\/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1899-01-01"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1392904\/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1917-01-01"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2268645\/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1900-01-01"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2037445\/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1895-01-01"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2813137\/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1882-08-01"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2558965\/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1871-08-01"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1080900\/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1990-01-01"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2408979\/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1910-01-01"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1277834\/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1941-12-01"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2188461\/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1895-04-01"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2583173\/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1896-02-01"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2462032\/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1895-09-01"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1319122\/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1933-11-01"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2152472\/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1903-11-01"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2566832\/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1887-02-01"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1280045\/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1954-12-01"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2508894\/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1886-06-01"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2149125\/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1894-02-01"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2583964\/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1898-05-01"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2561657\/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1878-11-01"
+                ]
+            }
+        }
+    ]
+}
